@@ -22,4 +22,8 @@ public class Demo2Application {
         System.out.println("Zhou");
     }
 
+    private static void yong() {
+        System.out.println("Yong");
+    }
+
 }
