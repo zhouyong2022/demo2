@@ -18,4 +18,8 @@ public class Demo2Application {
         System.out.println("World");
     }
 
+    private static void zhou() {
+        System.out.println("Zhou");
+    }
+
 }
