@@ -14,4 +14,8 @@ public class Demo2Application {
         System.out.println("Hello");
     }
 
+    private static void world() {
+        System.out.println("World");
+    }
+
 }
