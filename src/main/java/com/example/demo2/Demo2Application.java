@@ -30,4 +30,8 @@ public class Demo2Application {
         System.out.println("Zhang");
     }
 
+    private static void san() {
+        System.out.println("San");
+    }
+
 }
