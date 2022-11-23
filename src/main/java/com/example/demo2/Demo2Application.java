@@ -33,5 +33,9 @@ public class Demo2Application {
     private static void san() {
         System.out.println("San");
     }
+    
+    private static void li() {
+        System.out.println("Li");
+    }
 
 }
