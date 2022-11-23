@@ -10,4 +10,8 @@ public class Demo2Application {
         SpringApplication.run(Demo2Application.class, args);
     }
 
+    private static void hello() {
+        System.out.println("Hello");
+    }
+
 }
